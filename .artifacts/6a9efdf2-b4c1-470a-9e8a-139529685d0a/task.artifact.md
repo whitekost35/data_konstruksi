@@ -1,0 +1,13 @@
+- [x] Add `shared_preferences` to `pubspec.yaml`
+- [x] Implement `AuthService` in `lib/services/supabase_service.dart`
+- [x] Create `AuthProvider` in `lib/services/auth_provider.dart`
+- [x] Create `LoginScreen` in `lib/screens/login_screen.dart`
+- [x] Update `main.dart` to handle authentication flow
+- [x] Implement Role-Based Access Control (RBAC) in Desktop UI (`MainShell`)
+- [x] Implement Role-Based Access Control (RBAC) in Mobile UI (`MobileMainShell`)
+- [x] Protect all Add/Edit/Delete actions across the app
+- [x] Verify Admin and Owner permissions
+- [x] Update `getUserProfile(id)` in `SupabaseService`
+- [x] Update `refreshData(profileId)` in `ProjectProvider`
+- [x] Trigger profile refresh in `LoginScreen`
+- [x] Ensure profile loads on app startup in `main.dart` (via `MainShell`/`MobileMainShell` `initState`)

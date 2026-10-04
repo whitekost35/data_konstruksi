@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "data-konstruksi-web"
+  },
+  "targets": {
+    "data-konstruksi-web": {
+      "hosting": {
+        "data-konstruksi-web": [
+          "data-konstruksi-web"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}

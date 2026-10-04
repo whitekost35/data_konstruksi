@@ -1,0 +1,7 @@
+- [ ] Update `KokoBillEntry` and `KokoBillingPeriod` models to handle auto-generated IDs
+- [ ] Refactor `SupabaseService` Koko methods for safe inserts
+- [ ] Wrap `ProjectProvider` Koko methods in `_run` state management
+- [ ] Fix row management logic in `ProjectProvider`
+- [ ] Add loading overlay and error handling to `TagihanKokoDialog`
+- [ ] Verify functionality (Add/Edit/Delete/Sync)
+- [ ] Run static analysis

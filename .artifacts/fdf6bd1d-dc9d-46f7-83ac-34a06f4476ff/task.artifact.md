@@ -1,0 +1,14 @@
+- [x] **Phase 1: Dashboard & Data Integration**
+    - [x] Update `DashboardScreen` to use real data from Supabase for summary cards.
+    - [x] Implement `fl_chart` for visual expenditure tracking.
+    - [x] Fetch and display "Recent Activities" from Supabase transactions.
+- [x] **Phase 2: Advanced Attendance UI**
+    - [x] Refactor `AttendanceScreen` into a spreadsheet-style grid.
+    - [x] Add interactive input for attendance status (Full, 1/2, Lembur).
+    - [x] Implement wage calculation logic and mass-save functionality.
+- [/] **Phase 3: Visual Polish (iMac Style)**
+    - [/] Enhance sidebar transitions and blur effects in `MainShell`.
+    - [/] Add hover animations to `SummaryCard`.
+- [ ] **Phase 4: Missing Screens**
+    - [ ] Create `WorkerScreen` for worker management.
+    - [ ] Connect `WorkerScreen` to `MainShell` navigation.
